@@ -1,0 +1,93 @@
+{
+  "slug": "faye-nailss",
+  "name": "Faith",
+  "shortName": "Faith",
+  "displayBrand": "Faye Nails",
+  "tagline": "she's that girl.",
+  "heroLabel": "Gel-X nail artist",
+  "heroEm": "gel-x",
+  "heroLine": "red deer",
+  "intro": "Gel-X nail artist in Red Deer, Alberta. Accepting new clients. Dark red cat-eye and chrome almonds, colored-line French tips, 3D calla lilies, matcha and fairy sets \u2014 Dm to book.",
+  "city": "Red Deer, Alberta",
+  "address": "Red Deer, Alberta",
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Faye+Nails+gel-x+Red+Deer+Alberta",
+  "phone": "",
+  "email": "",
+  "bookingUrl": "https://ig.me/m/faye_nailss",
+  "instagram": "https://www.instagram.com/faye_nailss/",
+  "instagramHandle": "@faye_nailss",
+  "hours": [
+    [
+      "Mon",
+      "[hours to confirm]"
+    ],
+    [
+      "Tue",
+      "[hours to confirm]"
+    ],
+    [
+      "Wed",
+      "[hours to confirm]"
+    ],
+    [
+      "Thu",
+      "[hours to confirm]"
+    ],
+    [
+      "Fri",
+      "[hours to confirm]"
+    ],
+    [
+      "Sat",
+      "[hours to confirm]"
+    ],
+    [
+      "Sun",
+      "[hours to confirm]"
+    ]
+  ],
+  "hoursNote": "Hours: [hours to confirm] \u2014 Dm @faye_nailss to book.",
+  "services": [
+    {
+      "name": "Gel-X full sets",
+      "desc": "Soak-off + new set. Clients typically every 3\u20134 weeks.",
+      "price": "[price]"
+    },
+    {
+      "name": "Custom nail art",
+      "desc": "One-of-a-kind designs \u2014 cat-eye, chrome, French tips, and more.",
+      "price": "[price]"
+    },
+    {
+      "name": "3D sculpted florals",
+      "desc": "Hand-sculpted calla lilies and floral details.",
+      "price": "[price]"
+    },
+    {
+      "name": "Press-ons",
+      "desc": "Custom press-on sets made to order.",
+      "price": "[price]"
+    },
+    {
+      "name": "Holiday / seasonal sets",
+      "desc": "Festive and seasonal looks for the holidays and beyond.",
+      "price": "[price]"
+    }
+  ],
+  "special": {
+    "label": "Holiday booking",
+    "title": "Did you book for the holidays yet?",
+    "desc": "Holiday and seasonal Gel-X sets are booking now. Dm to lock your spot.",
+    "price": "[special price, to confirm]",
+    "dates": "[offer dates, to confirm]",
+    "cta": "Dm to book"
+  },
+  "about": "Faith is a Gel-X nail artist in Red Deer, Alberta \u2014 humor-forward captions, meme posts, and recognizable work: dark red cat-eye and chrome almonds, colored-line French tips, 3D calla lilies, matcha and fairy sets. Accepting new clients. Book by Dm only.",
+  "aboutHeading": "gel-x \u00b7 red deer",
+  "reviewsNote": "[Client reviews: to be added with permission]",
+  "accent": "#5f6f5a",
+  "maker": {
+    "name": "ShapedSI",
+    "url": "https://shapedsi.ca"
+  }
+}
